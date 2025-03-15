@@ -1,0 +1,5 @@
+dataset_loc:
+  raw: 'data/raw/'
+  preprocess: 'data/silver/' 
+model:
+  pretrained_model_loc: 'models/pretrained/'
